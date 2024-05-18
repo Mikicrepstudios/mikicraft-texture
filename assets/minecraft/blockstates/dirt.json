@@ -1,6 +1,5 @@
 {
     "variants": {
-        "": { "model": "block/dirt" }
-        
+        "normal": { "model": "dirt" }
     }
 }
