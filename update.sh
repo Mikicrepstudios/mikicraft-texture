@@ -1,2 +1,2 @@
-cp . ~/.minecraft/resourcepacks/mikicraft-texture -r
+sudo cp . ~/.minecraft/resourcepacks/mikicraft-texture -r
 
